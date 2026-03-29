@@ -1,0 +1,13 @@
+----------------------------------------
+ Open Source Manifesto
+----------------------------------------
+Name      : Devesh
+Date      : 2026-03-29
+Reason    : learning and sharing knowledge
+Tool      : Linux
+
+Statement :
+I, Devesh, believe in the power of open source.
+I support it because learning and sharing knowledge.
+I actively use tools like Linux to learn, share, and grow.
+----------------------------------------
